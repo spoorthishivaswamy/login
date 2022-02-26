@@ -1,0 +1,28 @@
+.home-container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0);
+    background-color: white;
+    border-radius: 22px;
+    width: 1200px;
+    height: 620px;
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: 50% 50%;	
+    height: 100%;
+}
+
+.column-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column-2 {
+    position: relative;
+    top: 12%;
+}

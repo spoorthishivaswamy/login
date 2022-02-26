@@ -1,0 +1,64 @@
+.form-container > form {
+    margin-top: 10%;
+}
+
+.form-container > .ant-typography {
+    font-size: 50px;
+}
+
+.form-container > div {
+    text-align: left;
+}
+
+.ant-form-item-control-input {
+    width: 400px;
+}
+
+
+.ant-form-item-control-input-content {
+    display: flex;
+    justify-content: left;
+}
+
+.ant-input-affix-wrapper{
+    border-bottom: 1px solid #A9A9A9 !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-top: 0px !important;
+    padding: 10px !important;
+}
+
+.ant-input {
+    margin-left: 3% !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+.ant-checkbox {
+    font-size: 18px;
+}
+.ant-checkbox + span {
+    font-weight: 700;
+    font-size: 13px;
+    font-family: 'Poppins';
+    color: #484848;
+    padding-left: 19px !important;
+}
+.ant-checkbox-checked .ant-checkbox-inner{
+        background-color: #d9d9d9;
+        border-color: #d9d9d9;
+}
+.ant-btn-primary {
+    width: 120px;
+    height: 60px !important;
+    border-radius: 6px !important;
+}
+.ant-btn >span {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.form-container > .form-or-login {
+    padding-top: 12%;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}

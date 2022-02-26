@@ -1,0 +1,12 @@
+.welcome-text{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0);
+    background-color: white;
+    font-size: 110px;
+    color: black;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
