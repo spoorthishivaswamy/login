@@ -1,7 +1,7 @@
 # Login Page 
 
-design - https://uicookies.com/bootstrap-login-form/
-tech used - React 
+- design - https://uicookies.com/bootstrap-login-form/
+- tech used - React 
 
 # How to run? 
 - npm i 
